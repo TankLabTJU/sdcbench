@@ -3,9 +3,9 @@ SDCBench is a benchmark suite and evaluation methodology for latency entropy mea
 SDCBench includes 16 representative applications selected from today's well-known benchmarks that across a wide range of cloud scenarios. It first proposes the concept of latency entropy and implements a robust methodology to measure the performance isolation ability in datacenters. 
 ---
 
-## 项目结构
+## Architecture
 <details>
-<summary>展开查看</summary>
+<summary>See details</summary>
 <pre><code>
 SDCBench
 |
